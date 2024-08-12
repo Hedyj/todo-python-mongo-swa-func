@@ -1,0 +1,17 @@
+{
+  "name": "todo-python-mongo-swa-func",
+  "version": "1.0.0",
+  "description": "--- page_type: sample languages: - azdeveloper - python - bicep - typescript - html products: - azure - azure-cosmos-db - azure-functions - azure-monitor - azure-pipelines urlFragment: todo-python-mongo-swa-func name: Static React Web App + Functions with Python API and MongoDB on Azure description: A complete ToDo app with Python FastAPI and Azure Cosmos API for MongoDB for storage. Uses Azure Developer CLI (azd) to build, deploy, and monitor --- <!-- YAML front-matter schema: https://review.learn.microsoft.com/en-us/help/contribute/samples/process/onboarding?branch=main#supported-metadata-fields-for-readmemd -->",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.46.0",
+    "@types/node": "^22.2.0"
+  }
+}
